@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Crete vvonders foretold by her crete prophet of Wales, which shall certainly happen this present year 1647. by strange fires, and crete waters, by spirits and tivills, appearing in many places of tis kingdome, especially in and about te cities of London and Westminster, and the effects that will follow thereupon. Also her kings coming home to her crete counsell.</title>
+            <author>Prophet of Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80802</idno>
+            <idno type="STC">Wing C6905</idno>
+            <idno type="STC">Thomason E370_3</idno>
+            <idno type="STC">ESTC R201282</idno>
+            <idno type="EEBO-CITATION">99861805</idno>
+            <idno type="PROQUEST">99861805</idno>
+            <idno type="VID">113950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E370[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Crete vvonders foretold by her crete prophet of Wales, which shall certainly happen this present year 1647. by strange fires, and crete waters, by spirits and tivills, appearing in many places of tis kingdome, especially in and about te cities of London and Westminster, and the effects that will follow thereupon. Also her kings coming home to her crete counsell.</title>
+                  <author>Prophet of Wales.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed with her free consent and leave, to be published and sold to her teere pretren of England, with all her plood and heart.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publcation from Wing.</note>
+                  <note>Woodcut illustration on title page represents the Prophet of Wales (cf. Thomason Catalogue).</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Jan. 2d 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Tightly bound.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113950:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>Crete Wonders foretold BY Her crete Prophet of <hi>Wales,</hi> which ſhall cer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ainly happen this preſent year 1647. by ſtrange fires, and crete waters, by ſpirits and Tivills appearing in many places of tis Kingdome, eſpecially in and about te Cities of London and Weſtminſter, and the effects that will follow thereupon.</p>
+            <p>Alſo her Kings coming home to her Crete Counſell.</p>
+            <figure>
+               <figDesc>portrait of the great prophet of Wales</figDesc>
+            </figure>
+            <p>
+               <add>Jan. 2<hi rend="sup">d</hi>
+               </add> Printed with her free conſent and leave, to be publiſhed and ſold to her teere Pretren of England, with all her plood and heart. 1647. <add>1646</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113950:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:113950:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>Wonders foretold by her Welch Prophet.</head>
+            <p>HER needs not foretell tat her cood King <hi>Charles</hi> is at diſtance from her crete Lords in Parliament, and her crete Houſe of Commons, mark you tat now: for to her crete creefe all her whole countrey-men of <hi>Whales,</hi> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Pretren of <hi>England,</hi> know tat well enough already; her doth therefore <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay to Cot Almighty, tat her cood King may returne in peace to her crete Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll againe: but for all tat her can tell a crete many more ſtrange wonders tat will <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rtainly fall out tis preſent yeare.</p>
+            <p n="1">1 Her dus foreſee, tat a crete many widows when tey have puried cood husbands <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t did pie them prave fine Pever hats, ſilk Crowns and Peticoats with ſilfer lace, <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d allow them a crete deal of gold and ſilfer to ſpend a goſſipping, and all ſuch <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e thing, what they would have, and they are left in debt 209.l. to the Tailors, 63.l. to the Drapers, 19.l. to the Butchers, 17.l. to the Comfit-makers, 11.l. 6.s. <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.d. to the Crocers, 13.l. 6.s. 5.d. ob. for ſilk ſtocking, 7.l. 3.s. 2.d. ob. q. for, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irdles, Cloves, knots and Ribbon, 101.l. 3.s 4.d. to the Doctors, and Proctors <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Civilian Law, <hi>&amp;c.</hi> and are faine to ſequeſter, and afterwards weare their <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d cown a Sundayes, it is a crete fore-runner of rain, and that many crete ſhow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of tears ſhall fall from their cloudy eyes.</p>
+            <p n="2">2 Tat many young callants tat has teir dear fathers dead tis yeare, and all the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eanes left them to ſpend will be very merry, and like ſo many ſtudents of the <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ack art, tey wil raiſe Angells, out of the golden myne, which teir fathers left them <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> flie like Gold-finches, and glittering ſparks up and down all place where they, <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me, and cauſe ſack and clarret to raine in Tavernes till the clouds of teir pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>imony be all ſpent.</p>
+            <p n="3">3. There ſhall alſo crete inflammations of Lightning tis happen year about the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortune in Colding-Lane, if the players can get leave to act the tragedies of Do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>our <hi>Fauſtus</hi> in which Tempeſt ſhall be ſeen ſhag-haired Tivills, runne roaring with ſquibs in teir mouthes, while drummes make thunder in the riring houſe <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the twelve pennie hireling make artificiall lights in her heavens.</p>
+            <p n="4">4 Tere ſhall a crete tarkneſſe happen among many of her dear countreymen of <hi>Whales,</hi> as alſo of her pretren of <hi>England,</hi> when they ſhall ſit at the Taverne or Alehouſe till tei be ſo blind tat tey cannot ſee day light.</p>
+            <p n="5">5 Tat a crete many Citizens wives, and many bauds and whores, and laſſes of <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſorts, tat in teir younger taies painted teir faces to look beautiful to pleaſe teir
+<pb facs="tcp:113950:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 99 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:113950:3"/>
+               <!-- PDF PAGE 99 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:113950:4"/>
+               <!-- PDF PAGE 100 -->Paramour, ſhall now forſake teir Venetian tinctures, and walk under ſo crete heate as ſhall transform their beuty to an old withered face.</p>
+            <p n="6">6 Tat there ſhall alſo tis preſent yeare be many crete fires in many parts of t<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> City of <hi>London</hi> (mark you tat now) for her doth fery well underſtand tat te<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will be many hot fires in Pick-hatch, Turnbull-ſteet, the Myneries, Coven-Garde<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> te Strand, Holborne, and poth te Friers, and other ſuch religious places, whe<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Venus Nunnes are cloyſtered, and <hi>Tom Tod</hi> and his fellow fleſh-dreſſers do <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> quench thoſe inflammations, many a three chind baud, dry fiſted punk, and bis<gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> handed pander, ſhall have all their haire burnt off with the heat thereof.</p>
+            <p n="7">7 Tere will once in a month or tereabouts (in te Old-Bailey) be many cr<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> fires which ſhall burne many whoſe hands are touched with te heat of it; <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> glad ſhall tey bee too tat tey ſcape with teir lives, for all te purning, mark y<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> me tere now, ſo tat is not to be paſſed by, put to be taken notice of ſtill.</p>
+            <p n="8">8 Tat many trunkards ſhall be much troupled with the terrible heart-burnin<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with trinking ſtale beere, and fehement hot inflammations at teir ſtomacks tr<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>king hot water, ſo tat many of them ſhall not dare to go to bed without a Th<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rundell pot of ſix ſhilings beere to ſtand by them all night, for fear their throats <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſet on fire before te next morning.</p>
+            <p n="9">9 Tat many a prodigall younger brother ſhall have many caſualities of ill ſuc<g ref="char:EOLhyphen"/>ceſſe befall them, and ſhall plunge themſelves into ſo great a deluge, tat many o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them ſhall not be able to reach nearer to te ſhore, ten te two Counter Ilands o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Woodſtreet and te Poultrey.</p>
+            <p n="10">10 Tat many giddy heads ſhall have ſo many firy ſparks of phantaſticall h<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mours fall upon them as ſhall ſet on fire teir brains, and burn up all teir wit.</p>
+            <p n="11">11 Tat moſt of te ſtudents belonging to te City Colledges, (I mean both t<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prodigious Counters) ſhall have ſuch firy red faces, tat tey cannot put a cup of <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>pitato to teir ſnouts, put tere ſhall be ſeen ſuch an extraordinary heat to clow from them, tat tey ſhall make it fery hiſſe againe, as if tere were a cad of burning ſteel flung into the pot, but becauſe I do truly love tem, I will be teir Eſculapius, and preſcribe this medicine following, viz.</p>
+            <p n="12">12 <hi>Let them every morning take a ſpoonfull of</hi> Aqua fortis, <hi>rather</hi> Aqua Re<g ref="char:EOLhyphen"/>gis, <hi>as much</hi> oleum Origanum, <hi>and mingle it with a little Mercury ſublimate, the<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> take a piece of the courſeſt haire cloth, and dip it in this liquour, and ſo every mor<g ref="char:EOLhyphen"/>ning till their noſes bee well, wet them with this medicine,</hi> and it will doe all the Counter Kites as much good as the world can deſire, for it ſtands io crete reaſon it ſhould cure them, for one heat alwayes drives out another, why els do Cooks tat purne teir fingers hold them to the fire, put tat te creater heat ſhould ex<g ref="char:EOLhyphen"/>pell te leſſer, or why do foot-men in te hotteſt weather after tey have runne a race
+<pb facs="tcp:113950:4"/>
+               <!-- PDF PAGE 100 -->
+trinke ſo much <hi>Vſquebah,</hi> and <hi>Roſa ſolis</hi> but tat it frights away the other.</p>
+            <p n="13">13 Tat tere ſhall be day and night continuall fires in Fleet-ſtreet, te Strand, and any other places both in and about te City, but eſpecially in tobacco-ſhops, ſo <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t tere ſhall ſcarce a man come in, whoſe noſe ſhall not ſmoke with it.</p>
+            <p n="14">14 Tat many tat ride up Holborne ſhall be ſet upon at Tiburne, and loſe both <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir lives, and and be ſtript of all tey have tere by <hi>Gregory</hi> and his company.</p>
+            <p n="15">15 Tat many maids where te Cavaliers come ſhall truſt tem with teir maiden<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eads, who will carrie it quite away and leave tem nothing but a —</p>
+            <p n="16">16 Tat if knick knock go on thus among her countrey-men and her friends of <hi>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngland</hi> and of <hi>Whales,</hi> tere will be a crete deal of bloud ſhed.</p>
+            <p n="17">17 Tat when teſe troubles (tat makes us tat we know not what to do) are paſt &amp; <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one, ten tere will be peace, and truly her will be fery clad of it; for her did never <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elight to ſhed bloud in all her life, no nor to be in ſuch dangers her ſelf (mark you <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat now) her never ſee ſuch doings before. O by Saint <hi>Taffie</hi> her was almoſt be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hit for feare, when her did run away from te fight at <hi>Edgehill,</hi> for te Cavaliers did <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ill her deare pretren in good earneſt. Bounce, bounce, bounce went te Cannon <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd te Gunne, and then came ſcurvy bullets among us, and downe fall one here, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd another tere, and tyed: then te Cavaliers came upon us with teir naked ſwords, and pole axes, and run ſome through, and cut others in pieces. O it makes her tremble to think of it, te bloud was all about her countrey-men tat lay tead: was not tat a pitifull fight? well, her did ſwear never to go fight again, and was <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery clad to get away, and truly her dus not diſſemble to tell you, tat her deſires peace.</p>
+            <p n="18">18 Tat if any thing be loſt amongſt a company of ſervants, and they ſhall af<g ref="char:EOLhyphen"/>terwards uſe the trick of the ſive and the ſheares, they ſhall thereby find tat which tey have loſt, and know who ſtole it after he tat had it reſtore it them a<g ref="char:EOLhyphen"/>gaine.</p>
+            <p n="19">19 Tat tis preſent year whoſoever ſhall be troubled with te tooth ache, Ague, Cramp, or a Feaver, or any other diſeaſe whatſoever, if they weare a writing in teir boſome till the Phyſitian cure them, tey ſhall ten be whole.</p>
+            <p n="20">20 Whoſoever takes good heed of te hind moſt lock in te nap of his neck till his wife be buried, ſhall be ſure to know when he ſhall be a widower.</p>
+            <p n="21">21 Whoſoever looketh upon a dial tat goeth true, may with a ring and a ſilfer peaker (if he underſtand te figures of te dial) eaſily tell what a clock it is.</p>
+            <p n="22">22 Tis yeare will be fery unfortunate to thoſe who have at any time a Hare croſſe them in te high way, when they are alone, becauſe tey have never a dog with them to catch her, or if tey ſhall firſt catch her, as my brother <hi>Taffie</hi> did, let her go againe.</p>
+            <p n="23">
+               <pb facs="tcp:113950:5"/>
+               <!-- PDF PAGE 101 -->
+23 When any one hath any yellow ſpeckles on te nailes of her hands, is broug<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to te bar, and accuſed of Purglary, treaſon or murder, and by te Jewry fou<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> guilty, he is in crete tanger to tie within a ſhort time after.</p>
+            <p n="24">24 When te left cheek purns, at te ſame time, tat one friend vindicates te fo<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of another, then doth tat chek purn at the ſame time he is well ſpoken of, but when her is curſed and railed on, then doth it purn when it is ill ſpoken of.</p>
+            <p n="25">25 When a mans noſe bleeds to cleare his head, and to empty his veines of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ploud, ploud, it is a token tat her ſhall be better in health thereby, but when it blee<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo much tat he cannot ſtop it till his body be out of temper thereby, it is a ſign <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will be worſe in health after it.</p>
+            <p n="26">26 If any man ſtumble in a morning as ſoon as he goes out of doors, it is <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fore-runner of ill luck, if he break his noſe or hurt himſelfe.</p>
+            <p n="27">27 If any man that is a batcheliour walking in te field chance to finde a fou<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> leaved graſſe, he ſhall be ſure to be married tat year, if his ſweet heart and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> can agree, and ſo ſhall it happen to any man tat findeth te like.</p>
+            <p n="29">29 It is not good to put on a new ſute on <hi>Childermas</hi> day, except he can te<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> where to have of his own, neither is it cood to pare ones nailes when <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y a<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> like to loſe a cood dinner for teir labour: nor to begin tat on tat day, for which tey ſhall repent te next day after.</p>
+            <p n="29">29 It is ill luck for a man to be drowſie, tat hath cot ſtore of buſineſſe to to<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of crete concernment, for then his buſineſſe ſhall fery probably be either negle<g ref="char:EOLhyphen"/>cted, or at te leaſt much ſleighted.</p>
+            <p n="30">30 It is ill luck to find a bag of money when it proves counterfeit, or is chal<g ref="char:EOLhyphen"/>lenged, or taken away by te true owners tereof, or loſt again.</p>
+            <p n="31">31 It is ill luck to loſe a hoſe-carter, eſpecially if it be a cood one, for then re<g ref="char:EOLhyphen"/>charges will be creter to buy another.</p>
+            <p n="32">32 It is a fery unfortunate thing for a man early in te morning, to meet with an ill favoured man, or woman tat wait purpoſely to do us a miſchief, &amp; are ready ar<g ref="char:EOLhyphen"/>med for it, eſpecially when a man is unprovided for his own tefence: ſo it is alſo <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> meet a rough footed hound, if ſhe flie upon him, and ſhit upon his cloathes, for <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen he muſt be troubled to make them clean; ſo it is alſo to meet a ſhag-haired <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>og, if he bite a man by te leg, and ſend him to te ſurgeons to ket it cured.</p>
+            <p n="33">33 If where crickets uſe to a rotten houſe they go away on a ſudden, by reaſon of te ruines of te chimney, 'tis a ſign tat ſome body in te houſe will be in danger of death if tey ſtay (without mending te houſe) to let te houſe fall down upon teir heads.</p>
+            <p n="34">34 Who ever dreames of egges or fire, he ſhall hear of anger, if his wife chance to break his head.</p>
+            <p n="35">
+               <pb facs="tcp:113950:5"/>
+               <!-- PDF PAGE 101 -->
+35 To tream of te Tivell is cood luck, if a man treby take heed of him ever <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er.</p>
+            <p n="36">36 To tream of gold is cood luck, if te next morning a man receive good ſtore, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tis ill to tream of ſilfer, and can keep never a penny.</p>
+            <p n="37">37 If a man be born in te day time it is unforrunate, I mean to priſon, for priſon <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n unfortunate place.</p>
+            <p n="38">38 If a child be born with a caul on te hand, it ſhall be fery fortunate, if it ne<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> live to want.</p>
+            <p n="39">39 When te palm of te right hand itches, it is a ſign tat man would willingly <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eive money, if any man will bring it.</p>
+            <p n="40">40 It is a crete ſign of ill luck, when rats knaw a mans cloathes, for he muſt <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er be faine to buy new, or weare them patched, both which will coſt money.</p>
+            <p n="41">41 It is naught for a man to give a pair of knives to her ſweetheart, to cut away <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, except her marrie her after, for her will never pay her for them, nor reſtore <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m againe.</p>
+            <p n="42">42 It is ill luck to have te ſalt-ſeller to fall towads one at meat, when a ſpecial <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is eating, for whilſt he is taking up te ſalt tat he ſpilt, te reſt of te company are <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to beguile him of his ſhare.</p>
+            <p n="43">43 When te pot falls next to a man it is cood luck if he be try, and wants on<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> cup to trink in.</p>
+            <p n="44">44 When a candle burns blue, in her houſe whoſe wife is a ſhrew, there is no <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſtion, but tat tere is a ſpirit tat uſeth te houſe.</p>
+            <p n="45">45 When te cat waſheth her face over her ears, it is a ſign of wet, if ſhe ſcratch <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one, from whoſe bloudy eies ſhall iſſue forth tears.</p>
+            <p n="46">46 It is ill luck for a horſe to ſtumble on the high way, if te rider cannot ſcarce <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at all.</p>
+            <p n="47">47 When an apprentices noſe (who loves a cup of ſack) doth itch, it is a ſign tat either trink wine when te glaſſe is at his mouth, or kiſſe a fool when his miſtris <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>raceth him.</p>
+            <p n="48">48 It is an ill ſigne to be melancholly, for ſeldome any one is ſo, put one croſs <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>other prings them to it.</p>
+            <p n="49">49 Tis year te chiefeſt nouriſhment which te ſhry Tivels ſhal feed upon, (I mean <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oaring boyes, tat like te Salamander alwaies live in te fire) will be ſmoak, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpirits wil be moſt reſident in tobacco ſhops, hot water ſhops, taverns, brothel <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>erns, and ſuch places, if tey be not conjured down by ſome everlaſting con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>le, or new elected beadle tat reſires to be knowne in his office, or rather ſome <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ice of Peace to charm them in te ſmall circumference of the Compter.</p>
+            <p n="50">50 Te fine mercurian fingered cut purſe ſpirits will often appeare in play-hou<g ref="char:EOLhyphen"/>ſes,
+<pb facs="tcp:113950:6"/>
+               <!-- PDF PAGE 102 -->
+cockpits, priſes, and ſuch like fertile places, except Porridge or Pulman cha<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them under the gallowes.</p>
+            <p n="51">51 Te watry ſpirit will be refident about te French or Iriſh coaſts, except letter of mart pring them as farre as Saint <hi>Thomas a watrings,</hi> or <hi>Wapping,</hi> and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſink them.</p>
+            <p n="52">52 Laſtly, tere ſhall be many earthly Tivills ariſe in many parts of te Kingdo<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which ſhall moſt appeare in Scriveners ſhops, teir office, or at teir paper houſes <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both te compters, except tey be layed by a privie ſeal to borrow money of the<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or a <hi>ſub paena</hi> ou of the exchequer for extortion.</p>
+            <p>Beſides teſe Tivills, her doth foreſee many more in te City her ſhal ſeldom <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into Turnbull ſtreet, put tere ſhall be a three chin baud or whore, ſitting in an <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ning enticing young men to ſin. Her ſhal ſeldom go into Cheapſide, Lumberſtr<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> te Strand or Feetſtreet, put you ſhall ſee ſome ſpirits in te likneſs of Goldſmit<gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> Merchants, and Silk-mens wives, wearing moſt prodigious hornes on teir he<gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> like a half moon, te emblem of change &amp; mutability. Her cannot walk into Hou<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ditch, charter-houſe-lane, put ſpirits wil appear, ſtanding at te moſt of thoſe do<gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> in te likeneſs of griping Brokers. Put of all ſpirits tat are likely to appear tis ye<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in te City thoſe tat ſtand before both te Compters do appear moſt horrible, a<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fearful to all her countreymen tat are in debt. I intended to have foretold at la<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſome other thing which do here follow in brief, <hi>fiz.</hi> Trunkards ſhall often tre<gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> tat tey are in te bottome of cellars carouſing and drinking healths, Lawyers ſh<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> tream of Angells and talk of demurres, <hi>habeas corpus, &amp;c.</hi> the Phyſicians wi<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> treame of a crete plague, and talke of pills, vomits, &amp;c. The cut purſe and catc<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>poles of <hi>Michaelmas</hi> Terme, and every one of tat teir love, like te player tat h<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> had his braines beat out with a cork of a bottle of Ale, and as he was ſpeaking i<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hit at him becauſe he ſpake it ſo ſcurvily.</p>
+            <p>Many other wonders will happen, which her is forced at tis time to omit to <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you of, and terefore her do now conclude and bid farewell to all her deare cou<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>trey men, friends and pretren.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
